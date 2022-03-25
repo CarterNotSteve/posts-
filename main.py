@@ -37,6 +37,7 @@ Commands:
     elif cmd == "chun":
         un = "_".join(args)
 
+    # removal lol
     elif cmd == "ratio":
         for i in args:
             if i.startswith("-index="):
